@@ -5,6 +5,7 @@ public class Names {
 		PrintDavidSig();
 		PrintMarkoSig();
 		PrintHenry();
+		Printjonny();
 		// Put your signature function on the above line!
 	}
 	
@@ -38,7 +39,7 @@ public class Names {
                         "                                                        \r\n" + //
                         "");
     }
-	public static void PrintHenry() {
+	public static void printHenry() {
 		System.out.println(" /  /\\         /  /\\         /  /\\         /  /\\          __      \n" + //
 						"    /  /:/        /  /::\\       /  /::|       /  /::\\        |  |\\    \n" + //
 						"   /  /:/        /  /:/\\:\\     /  /:|:|      /  /:/\\:\\       |  |:|   \n" + //
@@ -50,4 +51,16 @@ public class Names {
 						"     /__/:/       \\  \\:\\         /__/:/       |__|:|~      \\__\\/      \n" + //
 						"     \\__\\/         \\__\\/         \\__\\/         \\__\\|                  ");
 	}
+	
+	public static void Printjonny(){
+		System.out.println("\r\n" + //
+						"     ____.                         __   .__                     \r\n" + //
+						"    |    |  ____    ____  _____  _/  |_ |  |__  _____     ____  \r\n" + //
+						"    |    | /  _ \\  /    \\ \\__  \\ \\   __\\|  |  \\ \\__  \\   /    \\ \r\n" + //
+						"/\\__|    |(  <_> )|   |  \\ / __ \\_|  |  |   Y  \\ / __ \\_|   |  \\\r\n" + //
+						"\\________| \\____/ |___|  /(____  /|__|  |___|  /(____  /|___|  /\r\n" + //
+						"                       \\/      \\/            \\/      \\/      \\/ \r\n" + //
+						"");
+	}
+
 }
