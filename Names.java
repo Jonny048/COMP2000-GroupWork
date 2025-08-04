@@ -38,7 +38,7 @@ public class Names {
                         "                                                        \r\n" + //
                         "");
     }
-	public static void printHenry() {
+	public static void PrintHenry() {
 		System.out.println(" /  /\\         /  /\\         /  /\\         /  /\\          __      \n" + //
 						"    /  /:/        /  /::\\       /  /::|       /  /::\\        |  |\\    \n" + //
 						"   /  /:/        /  /:/\\:\\     /  /:|:|      /  /:/\\:\\       |  |:|   \n" + //
