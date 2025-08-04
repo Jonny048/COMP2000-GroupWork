@@ -3,6 +3,7 @@ public class Names {
 		System.out.println("This group consists of:");
 		// Put your signature function on the below line!
 		PrintDavidSig();
+		PrintMarkoSig();
 		// Put your signature function on the above line!
 	}
 	
@@ -14,4 +15,25 @@ public class Names {
                         "|____/ \\__,_| \\_/ |_|\\__,_| |_|  |_|\\__,_|_|  | .__/|_| |_|\\__, |\r\n" + //
                         "                                              |_|          |___/ ");
 	}
+
+	public static void PrintMarkoSig() {
+        System.out.println("\r\n" + //
+                        "                                                        \r\n" + //
+                        "          ____                                          \r\n" + //
+                        "        ,'  , `.                          ,-.           \r\n" + //
+                        "     ,-+-,.' _ |                      ,--/ /|           \r\n" + //
+                        "  ,-+-. ;   , ||             __  ,-.,--. :/ |   ,---.   \r\n" + //
+                        " ,--.'|'   |  ;|           ,' ,'/ /|:  : ' /   '   ,'\\  \r\n" + //
+                        "|   |  ,', |  ':  ,--.--.  '  | |' ||  '  /   /   /   | \r\n" + //
+                        "|   | /  | |  || /       \\ |  |   ,''  |  :  .   ; ,. : \r\n" + //
+                        "'   | :  | :  |,.--.  .-. |'  :  /  |  |   \\ '   | |: : \r\n" + //
+                        ";   . |  ; |--'  \\__\\/: . .|  | '   '  : |. \\'   | .; : \r\n" + //
+                        "|   : |  | ,     ,\" .--.; |;  : |   |  | ' \\ \\   :    | \r\n" + //
+                        "|   : '  |/     /  /  ,.  ||  , ;   '  : |--' \\   \\  /  \r\n" + //
+                        ";   | |`-'     ;  :   .'   \\---'    ;  |,'     `----'   \r\n" + //
+                        "|   ;/         |  ,     .-./        '--'                \r\n" + //
+                        "'---'           `--`---'                                \r\n" + //
+                        "                                                        \r\n" + //
+                        "");
+    }
 }
